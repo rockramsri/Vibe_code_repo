@@ -3,6 +3,8 @@ import random
 import json
 from datetime import datetime
 
+# comments for better underzrand
+
 class MathOperations:
     def __init__(self):
         self.results = []
